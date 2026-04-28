@@ -11,5 +11,5 @@ Building a home SOC lab from scratch to detect simulated cyber attacks.
 ## Progress
 - [x] Virtual machine set up
 - [x] Splunk installed
-- [ ] Attacks simulated
-- [ ] Detection rules built
+- [x] Attacks simulated
+- [x] Detection rules built
